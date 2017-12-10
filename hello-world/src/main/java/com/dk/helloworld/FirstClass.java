@@ -11,5 +11,8 @@ package com.dk.helloworld;
  * CRIF IT Solutions Poland
  */
 public class FirstClass {
-
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+   
 }
